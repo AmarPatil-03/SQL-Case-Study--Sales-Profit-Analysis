@@ -1,1 +1,1 @@
-# SQL- Sales Profit Analysis
+# SQL- Sales & Profit Analysis
