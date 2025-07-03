@@ -1,1 +1,1 @@
-# SQL-Case-Study--Sales-Profit-Analysis
+# SQL-Sales Profit Analysis
